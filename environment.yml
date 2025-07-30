@@ -1,0 +1,10 @@
+name: muri-info
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - ipykernel
+  - scipy
+  - ipywidgets
+prefix: /Users/adityakrishna/miniforge3/envs/muri-info
