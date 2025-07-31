@@ -7,4 +7,5 @@ dependencies:
   - ipykernel
   - scipy
   - ipywidgets
+  - scikit-learn
 prefix: /Users/adityakrishna/miniforge3/envs/muri-info
